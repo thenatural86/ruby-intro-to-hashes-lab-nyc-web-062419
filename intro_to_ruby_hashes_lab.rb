@@ -47,6 +47,8 @@ def monopoly_with_fourth_tier
 	   {
 	     pieces: 4, 
 	     
+	     
+	     
 	     names: 
 	     {
 	       reading_railroad: 
@@ -63,7 +65,7 @@ def monopoly_with_fourth_tier
 	       },
 	       shortline: 
 	       {
-	         "mortgage_value": "$100"
+	         "mortgage_value": "$800"
 	       }
 	     }, 
 	     
