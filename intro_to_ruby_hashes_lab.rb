@@ -46,6 +46,7 @@ def monopoly_with_fourth_tier
 	   railroads: 
 	   {
 	     pieces: 4, 
+	     
 	     names: 
 	     {
 	       reading_railroad: 
@@ -65,6 +66,7 @@ def monopoly_with_fourth_tier
 	         "mortgage_value": "$100"
 	       }
 	     }, 
+	     
 	     rent_in_dollars: 
 	     {
 	       one_piece_owned: 25, 
