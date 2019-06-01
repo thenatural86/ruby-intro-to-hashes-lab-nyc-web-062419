@@ -52,7 +52,6 @@ def monopoly_with_fourth_tier
 	       {
 	         "mortgage_value": "$100"
 	       },
-	       binding.pry
 	       pennsylvania_railroad: {},
 	       b_and_o_railroad: {},
 	       shortline: {}
